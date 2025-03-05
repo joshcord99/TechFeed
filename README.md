@@ -1,7 +1,7 @@
 
-# Just Tech News
+# Tech Feed
 
-**Just Tech News** is a Python-powered web application that allows users to submit tech-related articles, comment on articles, and upvote them.
+**TechFeed** is a Python-powered web application that allows users to submit tech-related articles, comment on articles, and upvote them.
 
 ---
 
